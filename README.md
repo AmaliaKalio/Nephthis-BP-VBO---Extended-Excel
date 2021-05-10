@@ -210,3 +210,13 @@ Applies up to four excel filters against a given column
 * Filter2 - Text
 * Filter3 - Text
 * Filter4 - Text
+
+## Rename Worksheet
+Renames a target worksheet
+
+### Inputs:
+* Handle - Number
+* Source Workbook - Text
+* Source Worksheet - Text
+* New Worksheet Name - Text
+
